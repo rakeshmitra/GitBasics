@@ -1,2 +1,2 @@
-This is a test file
+This is a test file. Updated directly in GitHub to simulate another user updates.
 Updated further
